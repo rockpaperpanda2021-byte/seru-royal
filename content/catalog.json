@@ -1,0 +1,197 @@
+{
+  "events": [
+    {
+      "id": "demo-event-jazz",
+      "status": "published",
+      "title": "Summer Jazz Night",
+      "date": "2026-10-18",
+      "time": "19:30",
+      "venue": "Studio Hall",
+      "image": "/assets/event-classical.png",
+      "portraitImage": "/assets/event-classical.png",
+      "ticketImage": null,
+      "ticketImageObjectPosition": null,
+      "ticketImageStubObjectPosition": null,
+      "category": "Concert",
+      "description": "An evening of live jazz with guest artists.",
+      "specialNote": null,
+      "specialNoteTitle": null,
+      "thankYouTitle": null,
+      "thankYouMessage": null,
+      "ticketCheckInEnabled": false,
+      "ticketGuestQuestions": {
+        "age": true,
+        "name": true,
+        "performanceType": true,
+        "performancePreference": true
+      },
+      "ticketTypes": [],
+      "artists": [
+        "Demo Quartet"
+      ],
+      "price": 499,
+      "seatingType": "general",
+      "reservedSeats": [],
+      "sessions": [
+        {
+          "date": "2026-10-18",
+          "time": "19:30"
+        }
+      ],
+      "timeSlots": [],
+      "coupons": []
+    },
+    {
+      "id": "demo-event-mic",
+      "status": "published",
+      "title": "Open Mic Friday",
+      "date": "2026-10-24",
+      "time": "20:00",
+      "venue": "Main Stage",
+      "image": "/assets/event-open-mic.png",
+      "portraitImage": "/assets/event-open-mic.png",
+      "ticketImage": null,
+      "ticketImageObjectPosition": null,
+      "ticketImageStubObjectPosition": null,
+      "category": "Open Mic",
+      "description": "Sign up, perform, cheer — open floor night.",
+      "specialNote": null,
+      "specialNoteTitle": null,
+      "thankYouTitle": null,
+      "thankYouMessage": null,
+      "ticketCheckInEnabled": false,
+      "ticketGuestQuestions": {
+        "age": true,
+        "name": true,
+        "performanceType": true,
+        "performancePreference": true
+      },
+      "ticketTypes": [
+        {
+          "id": "performer",
+          "label": "Performer",
+          "price": 299,
+          "color": null
+        },
+        {
+          "id": "audience",
+          "label": "Audience",
+          "price": 299,
+          "color": null
+        }
+      ],
+      "artists": [
+        "Community"
+      ],
+      "price": 299,
+      "seatingType": "general",
+      "reservedSeats": [],
+      "sessions": [
+        {
+          "date": "2026-10-24",
+          "time": "20:00"
+        }
+      ],
+      "timeSlots": [],
+      "coupons": []
+    },
+    {
+      "id": "demo-event-dance",
+      "status": "published",
+      "title": "Dance Showcase",
+      "date": "2026-11-02",
+      "time": "18:00",
+      "venue": "Courtyard",
+      "image": "/assets/event-dance.png",
+      "portraitImage": "/assets/event-dance.png",
+      "ticketImage": null,
+      "ticketImageObjectPosition": null,
+      "ticketImageStubObjectPosition": null,
+      "category": "Showcase",
+      "description": "Student and guest dance performances.",
+      "specialNote": null,
+      "specialNoteTitle": null,
+      "thankYouTitle": null,
+      "thankYouMessage": null,
+      "ticketCheckInEnabled": false,
+      "ticketGuestQuestions": {
+        "age": true,
+        "name": true,
+        "performanceType": true,
+        "performancePreference": true
+      },
+      "ticketTypes": [],
+      "artists": [
+        "Ensemble"
+      ],
+      "price": 399,
+      "seatingType": "general",
+      "reservedSeats": [],
+      "sessions": [
+        {
+          "date": "2026-11-02",
+          "time": "18:00"
+        }
+      ],
+      "timeSlots": [],
+      "coupons": []
+    }
+  ],
+  "classes": [
+    {
+      "id": "demo-class-dance",
+      "status": "published",
+      "title": "Contemporary Dance",
+      "category": "Dance",
+      "level": "Beginner",
+      "instructor": "Meera Shah",
+      "schedule": "Mon & Wed · 5:30–6:30 PM",
+      "timeSlots": [],
+      "price": 5999,
+      "registrationFee": 999,
+      "image": "/assets/class-dance.png",
+      "portraitImage": "/assets/class-dance.png",
+      "description": "Floor work, phrasing, and ensemble pieces.",
+      "specialNote": null,
+      "specialNoteTitle": null,
+      "longDescription": []
+    },
+    {
+      "id": "demo-class-guitar",
+      "status": "published",
+      "title": "Guitar Fundamentals",
+      "category": "Instrumental",
+      "level": "Beginner",
+      "instructor": "Rohan Patel",
+      "schedule": "Sat · 10:00–11:30 AM",
+      "timeSlots": [],
+      "price": 4499,
+      "registrationFee": 0,
+      "image": "/assets/class-rhythm.png",
+      "portraitImage": "/assets/class-rhythm.png",
+      "description": "Chords, rhythm, and songs for absolute beginners.",
+      "specialNote": null,
+      "specialNoteTitle": null,
+      "longDescription": []
+    },
+    {
+      "id": "demo-class-vocal",
+      "status": "published",
+      "title": "Vocal Mastery",
+      "category": "Vocal",
+      "level": "Intermediate",
+      "instructor": "Asha Menon",
+      "schedule": "Tue & Thu · 6:00–7:00 PM",
+      "timeSlots": [],
+      "price": 2999,
+      "registrationFee": 499,
+      "image": "/assets/class-vocal.png",
+      "portraitImage": "/assets/class-vocal.png",
+      "description": "Breath, pitch, and performance craft for intermediate singers.",
+      "specialNote": null,
+      "specialNoteTitle": null,
+      "longDescription": []
+    }
+  ],
+  "exportedAt": "2026-09-29T13:33:49.171Z"
+}

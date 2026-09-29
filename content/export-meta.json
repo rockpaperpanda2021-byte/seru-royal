@@ -1,0 +1,8 @@
+{
+  "adminUrl": "http://royal.localhost:5173/admin",
+  "adminEmail": "admin@royal.com",
+  "liveSiteUrl": "http://console.localhost:5173",
+  "exportedAt": "2026-09-29T13:33:49.169Z",
+  "slug": "royal",
+  "repoName": "seru-royal"
+}
