@@ -20,8 +20,14 @@
         "href": "/events"
       },
       {
+        "label": "Classes",
+        "href": "/classes",
+        "external": false
+      },
+      {
         "label": "About",
-        "href": "/about"
+        "href": "/about",
+        "external": false
       },
       {
         "label": "Contact",
@@ -193,7 +199,8 @@
       "maskClearOpacity": 0,
       "patternColor": "",
       "patternOpacity": 0.12,
-      "patternScale": "sm"
+      "patternScale": "sm",
+      "youtubeUrl": ""
     },
     "accentColor": "#f9c301",
     "textColor": "#707070",
@@ -481,7 +488,8 @@
           "maskClearOpacity": 0.29,
           "patternColor": "#005f8f",
           "patternOpacity": 0.6,
-          "patternScale": "md"
+          "patternScale": "md",
+          "youtubeUrl": ""
         },
         "gallery": [],
         "galleryStyle": "none",
@@ -512,7 +520,8 @@
           "maskClearOpacity": 0,
           "patternColor": "#006eb3",
           "patternOpacity": 0.12,
-          "patternScale": "sm"
+          "patternScale": "sm",
+          "youtubeUrl": ""
         },
         "gallery": [],
         "galleryStyle": "none",
@@ -543,7 +552,8 @@
           "maskClearOpacity": 0,
           "patternColor": "#94dfff",
           "patternOpacity": 0.33,
-          "patternScale": "sm"
+          "patternScale": "sm",
+          "youtubeUrl": ""
         },
         "gallery": [
           {
@@ -605,7 +615,8 @@
           "maskClearOpacity": 0,
           "patternColor": "#c7f6ff",
           "patternOpacity": 0.59,
-          "patternScale": "md"
+          "patternScale": "md",
+          "youtubeUrl": ""
         },
         "gallery": [
           {
@@ -661,7 +672,8 @@
           "maskClearOpacity": 0,
           "patternColor": "",
           "patternOpacity": 0.12,
-          "patternScale": "sm"
+          "patternScale": "sm",
+          "youtubeUrl": ""
         },
         "gallery": [],
         "galleryStyle": "none",
@@ -692,7 +704,8 @@
           "maskClearOpacity": 0,
           "patternColor": "",
           "patternOpacity": 0.55,
-          "patternScale": "sm"
+          "patternScale": "sm",
+          "youtubeUrl": ""
         },
         "gallery": [
           {
