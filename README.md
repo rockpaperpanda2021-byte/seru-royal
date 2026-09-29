@@ -22,4 +22,4 @@ GitHub Pages: `https://<owner>.github.io/seru-royal/`
 Re-export from Seru after you add or edit events, classes, or site design.
 
 Admin: http://royal.localhost:5173/admin
-Exported: 2026-09-29T13:33:49.169Z
+Exported: 2026-09-29T14:01:24.016Z
