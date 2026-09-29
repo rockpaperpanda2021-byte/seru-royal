@@ -113,18 +113,18 @@
         "style": "frosted",
         "align": "left",
         "verticalAlign": "center",
-        "width": "medium",
+        "width": "wide",
         "size": "comfortable",
         "backgroundColor": "",
-        "backgroundOpacity": 0.92,
-        "textColor": "",
-        "mutedColor": "",
-        "eyebrowColor": "",
+        "backgroundOpacity": 0.44,
+        "textColor": "#000000",
+        "mutedColor": "#000000",
+        "eyebrowColor": "#d18f00",
         "primaryBtnBg": "",
         "primaryBtnText": "",
         "secondaryBtnBg": "",
-        "secondaryBtnText": "",
-        "secondaryBtnBorder": "",
+        "secondaryBtnText": "#d18f00",
+        "secondaryBtnBorder": "#d18f00",
         "showSideSpot": true
       }
     },
@@ -463,25 +463,25 @@
         "enabled": true,
         "background": {
           "type": "image",
-          "color": "",
-          "imageUrl": "./media/1790684482652-omvv8r-ead58db5.jpg",
-          "imageUrlSecondary": "./media/1790684616534-tjsl5t-58c9bc23.jpg",
-          "imageLayout": "split-asym-left",
-          "pattern": "crosshatch",
+          "color": "#ffffff",
+          "imageUrl": "./media/1790705234013-valvis-a170f657.png",
+          "imageUrlSecondary": "./media/1790698310059-9f5pqn-846e4312.jpg",
+          "imageLayout": "half-left",
+          "pattern": "none",
           "overlayOpacity": 0,
           "heightMode": "custom",
-          "heightVh": 61,
+          "heightVh": 67,
           "imageFit": "cover",
           "imagePosition": "center",
           "imageOpacity": 1,
-          "maskMode": "half",
-          "maskDirection": "diagonal-br",
+          "maskMode": "none",
+          "maskDirection": "top",
           "maskSplit": 50,
-          "maskFeather": 16,
-          "maskClearOpacity": 0.24,
-          "patternColor": "#ff0000",
-          "patternOpacity": 0.25,
-          "patternScale": "sm"
+          "maskFeather": 50,
+          "maskClearOpacity": 0.29,
+          "patternColor": "#005f8f",
+          "patternOpacity": 0.6,
+          "patternScale": "md"
         },
         "gallery": [],
         "galleryStyle": "none",
@@ -495,13 +495,13 @@
         "background": {
           "type": "image",
           "color": "#ffffff",
-          "imageUrl": "./media/1790688357850-yvkec2-da49a9b8.jpg",
+          "imageUrl": "./media/1790705402770-bu290r-95f9f33c.jpg",
           "imageUrlSecondary": "",
           "imageLayout": "half-right",
           "pattern": "dots",
           "overlayOpacity": 0.4,
           "heightMode": "custom",
-          "heightVh": 60,
+          "heightVh": 61,
           "imageFit": "cover",
           "imagePosition": "center",
           "imageOpacity": 1,
@@ -526,9 +526,9 @@
         "background": {
           "type": "image",
           "color": "#ffffff",
-          "imageUrl": "",
+          "imageUrl": "./media/1790704676740-0e9wys-dca1a571.jpg",
           "imageUrlSecondary": "",
-          "imageLayout": "background",
+          "imageLayout": "half-left",
           "pattern": "none",
           "overlayOpacity": 0.4,
           "heightMode": "auto",
@@ -577,7 +577,7 @@
             "alt": "wp6544932"
           }
         ],
-        "galleryStyle": "flush",
+        "galleryStyle": "none",
         "gallerySize": "md",
         "galleryAlign": "center",
         "galleryFrame": "none"
@@ -586,9 +586,9 @@
         "id": "events",
         "enabled": true,
         "background": {
-          "type": "image",
+          "type": "color",
           "color": "#ffffff",
-          "imageUrl": "./media/1790689332984-58rz7l-48ed8ea3.jpg",
+          "imageUrl": "",
           "imageUrlSecondary": "",
           "imageLayout": "half-left",
           "pattern": "dots",
@@ -607,11 +607,36 @@
           "patternOpacity": 0.59,
           "patternScale": "md"
         },
-        "gallery": [],
-        "galleryStyle": "none",
+        "gallery": [
+          {
+            "id": "g-1790699427458-6fj9o",
+            "imageUrl": "./media/1790699427455-cqy7pt-a591dedb.jpg",
+            "caption": "",
+            "alt": "wp6544932"
+          },
+          {
+            "id": "g-1790699427429-ppqvb",
+            "imageUrl": "./media/1790699427421-k6xfz3-3a0610e1.jpg",
+            "caption": "",
+            "alt": "gang-hao-zCZzSK5yX5A-unsplash"
+          },
+          {
+            "id": "g-1790699427452-3lipc",
+            "imageUrl": "./media/1790699427433-knyn2g-3b935f66.jpg",
+            "caption": "",
+            "alt": "hulki-okan-tabak-t0WFxtrUgSc-unsplash"
+          },
+          {
+            "id": "g-1790699427416-rfmco",
+            "imageUrl": "./media/1790699427398-vrc9qs-5e44e686.jpg",
+            "caption": "",
+            "alt": "cameron-gibson-unvGTVX7moQ-unsplash"
+          }
+        ],
+        "galleryStyle": "flush",
         "gallerySize": "md",
         "galleryAlign": "center",
-        "galleryFrame": "none"
+        "galleryFrame": "polaroid"
       },
       {
         "id": "founder",
@@ -619,7 +644,7 @@
         "background": {
           "type": "image",
           "color": "",
-          "imageUrl": "./media/1790621032140-xdt22c-e39d1b87.jpeg",
+          "imageUrl": "./media/1790705506156-i72ocl-9a73bae6.jpg",
           "imageUrlSecondary": "",
           "imageLayout": "half-right",
           "pattern": "dots",
@@ -648,12 +673,12 @@
         "id": "community",
         "enabled": true,
         "background": {
-          "type": "image",
-          "color": "#0f47b8",
-          "imageUrl": "./media/1790690453431-c3w47a-3f19b62d.jpg",
+          "type": "pattern",
+          "color": "#ffffff",
+          "imageUrl": "",
           "imageUrlSecondary": "",
           "imageLayout": "background",
-          "pattern": "none",
+          "pattern": "diagonal",
           "overlayOpacity": 0,
           "heightMode": "auto",
           "heightVh": 60,
@@ -666,7 +691,7 @@
           "maskFeather": 25,
           "maskClearOpacity": 0,
           "patternColor": "",
-          "patternOpacity": 0.12,
+          "patternOpacity": 0.55,
           "patternScale": "sm"
         },
         "gallery": [
@@ -734,10 +759,10 @@
     ],
     "dividerStyle": "none",
     "dividerPosition": "upper",
-    "stampImageUrl": "./media/1790415302112-5td64d-61f64b6e.png",
+    "stampImageUrl": "",
     "stampOpacity": 0.18,
     "stampPosition": "bottom-right",
-    "ambientGifUrl": "./media/1790415373698-cz9wiv-68161a7d.gif",
+    "ambientGifUrl": "",
     "ambientGifPosition": "top-right",
     "ambientGifOpacity": 0.55,
     "ambientGifSize": "sm",
